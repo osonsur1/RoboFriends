@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 
 To run the project:
 
